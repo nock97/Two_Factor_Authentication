@@ -1,6 +1,6 @@
 # Two_Factor_Authentication
 
-1. For this Project I used Pycharms as my host envoirment for the code. In saying this downlaod Pycharms community version to a folder on your desktop. After doing so open the project using Pycharms ( You can use the latest version of Pycharms). This is the best option and approach to view the project as a whole.
+1. For this Project I used Pycharms as my host envoirment for the code. In saying this downlaod Pycharms community version to a folder on your desktop. After doing so open the project using Pycharms ( You can use the latest version of Pycharms). 
 
 2. I used SQLite studio for macbook to integrate my database. 
 
